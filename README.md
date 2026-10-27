@@ -17,3 +17,9 @@ confilct
 
 
 a = 4
+
+
+## this is in branch 'testing'
+
+- checkout 
+- branch <branch_name>
